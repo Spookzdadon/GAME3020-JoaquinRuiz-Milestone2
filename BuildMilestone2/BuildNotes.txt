@@ -1,0 +1,9 @@
+For this build of the game, I've added a health bar, a mana bar, aim system, laser projectiles, super transformation 
+that makes the player faster and increases projectile damage, and the enemies have a simple AI that follows
+the player if close enough and will attack and damage the player. For the final build, I'd like to finalize
+all the assets, and fix every bug possible and smooth out the mechanics.
+
+Features that need to be fixed:
+- Transition from normal camera to aim camera is still buggy
+- projectiles sometimes fail to shoot out when flying
+- improve the enemy AI
